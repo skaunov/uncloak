@@ -89,7 +89,9 @@ Sessions will be recorded and posted to [youtube](https://www.youtube.com/@unclo
 Show up for sessions, no sign up. See the Discord Event schedule. https://discord.gg/TYwr4pMS2h
 
 ### Will sessions be recorded? Can I take the course at my own pace?
-Yes and Yes. Sessions will be recorded, and notes will be published. The advantage of keeping up with the group is a deeper liquidity pool of people who are simultaneously thinking and learning about the same things as you, but you're welcome to keep your own pace. [Recordings Link](https://drive.google.com/drive/folders/1506sz7G5o6ATeGObP1AEwMV4msaLK3HD?usp=share_link).
+Yes and Yes. Sessions will be recorded, and notes will be published. The advantage of keeping up with the group is a deeper liquidity pool of people who are simultaneously thinking and learning about the same things as you, but you're welcome to keep your own pace.
+
+Sessions will be recorded and posted to [youtube](https://www.youtube.com/@uncloakcrypto).
 
 ### What time commitment?
 See above, you may pace yourself if the pacing doesn't suit you, but we will aim to assign 1-2 hours of reading per week, with an optional pool of development homework. The time taken to complete "development homework" is highly varying on skill level, but we will attempt to target 4-5 hours per week.
